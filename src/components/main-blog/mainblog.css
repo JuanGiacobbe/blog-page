@@ -1,0 +1,18 @@
+.main-blog {
+	display: grid;
+	grid-template-columns: 60% 40%;
+	width: 90%;
+	height: 75vh;
+	border-radius: var(--bor-rad);
+	border: var(--thin-border);
+	overflow: hidden;
+}
+
+
+.main-img {
+	width: 100%;
+}
+
+.main-txt {
+	padding: 3rem 1rem;
+}

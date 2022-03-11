@@ -1,0 +1,8 @@
+.search {
+	font-size: 1.1rem;
+	border: 2px solid #000;
+	padding: .3rem;
+	border-radius: var(--bor-rad);
+	border: var(--thin-border);
+
+}
